@@ -2,11 +2,11 @@
 
 ---
 ### :man_technologist: About Me:
-My name is Daniel, I'm a frontend web developer based in Lagos, Nigeria.
+My name is Daniel, and I'm a frontend web developer based in Lagos, Nigeria.
 
-- ⭐ My current go to technology are for building interact web apps are Next JS, Zustand, React-Query, Tailwindcss and Framer Motion.
-- 📄 I'm self advancing on Next JS, Zustand, Zod, Redux-Toolkit and testing library.
-- 💻 I’m looking for **Junior Developer role**.
+- ⭐ My current go-to technologies for building interactive web apps are NextJS, Zustand, React-Query, Tailwindcss, and Framer Motion.
+- 📄 I'm self-learning and advancing on Next JS, Zustand, Zod, Redux Toolkit, and the testing library.
+- 💻 I’m looking for a **Junior Developer role**.
 - 📫 Reach me on <a href="mailto:danieluanhumen@gmail.com" target="_blank">danieluanhumen@gmail.com</a>
 
 ### 🖥️ Tech Stack and Tools
